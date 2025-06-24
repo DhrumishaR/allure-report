@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","39954","162_CG_FOOTER_001 Footer Section","","Tue Jun 24 13:46:24 IST 2025","passed","Tue Jun 24 13:47:04 IST 2025","","Footer Functionality","162_CG_FOOTER_001 Footer Section",""
+"","4","setUpClass","Default Suite","Tue Jun 24 11:52:33 IST 2025","broken","Tue Jun 24 11:52:33 IST 2025","com.CG_Beta_Project.testRunner.LargeScreenTestRunner","CG_Live_Automation_Backup","com.CG_Beta_Project.testRunner.LargeScreenTestRunner","setUpClass"
